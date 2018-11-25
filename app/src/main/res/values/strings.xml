@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyPlayer</string>
+    <string name="close">Close</string>
+    <string name="song">Song :</string>
+    <string name="cover">Cover</string>
+    <string name="artist">Artists :</string>
+    <string name="forward">Forward</string>
+    <string name="rewind">Rewind</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="download">Download</string>
+    <string name="play_circle">Play Circle</string>
+    <string name="play_studio">Play Studio</string>
+    <string name="history">Show History</string>
+</resources>
