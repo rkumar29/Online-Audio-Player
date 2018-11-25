@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity implements SongResponseInter
 
         progressBar.setVisibility(View.VISIBLE);
 
-        String URL_SONGS = "http://starlord.hackerearth.com/studio";
+        String URL_SONGS = /* Use own url for making songs request that contains response as provided in the bean class. */
 
         JsonArrayRequest request = new JsonArrayRequest(URL_SONGS, new Response.Listener<JSONArray>() {
             @Override
